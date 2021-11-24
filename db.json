@@ -1,11 +1,48 @@
 {
-    "posts": [
-      {
+    "user": {
         "id": 1,
-        "title": "hello"
-      }
+        "name": "Christian Kohlberg"
+    },
+    "i8n": {
+        "language": "de"
+    },
+    "freezer": [
+        {
+            "id": 1,
+            "name": "Parent`s House",
+            "user_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Kitchen",
+            "user_id": 1
+        }
     ],
-    "profile": {
-      "name": "typicode"
-    }
+    "item": [
+        {
+            "id": 1,
+            "name": "4x Steaks",
+            "freezer_id": 1
+        },
+        {
+            "id": 2,
+            "name": "1kg Chicken breast",
+            "freezer_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Chocolate Cake",
+            "freezer_id": 1
+        },
+        {
+            "id": 4,
+            "name": "500g Minced Meat",
+            "freezer_id": 2
+        },
+        {
+            "id": 5,
+            "name": "6 Hamburger Patties",
+            "freezer_id": 2
+        },
+    ]
   }
