@@ -22,27 +22,37 @@
         {
             "id": 1,
             "name": "4x Steaks",
-            "freezer_id": 1
+            "freezer_id": 1,
+            "weight": 800,
+            "expire": "2023-01-01" 
         },
         {
             "id": 2,
             "name": "1kg Chicken breast",
-            "freezer_id": 1
+            "freezer_id": 1,
+            "weight": 1000,
+            "expire": "2022-10-11" 
         },
         {
             "id": 3,
             "name": "Chocolate Cake",
-            "freezer_id": 1
+            "freezer_id": 1,
+            "weight": 800,
+            "expire": "2022-06-17" 
         },
         {
             "id": 4,
             "name": "500g Minced Meat",
-            "freezer_id": 2
+            "freezer_id": 2,
+            "weight": 500,
+            "expire": "2022-04-05" 
         },
         {
             "id": 5,
             "name": "6 Hamburger Patties",
-            "freezer_id": 2
+            "freezer_id": 2,
+            "weight": 900,
+            "expire": "2022-03-20" 
         }
     ]
   }
